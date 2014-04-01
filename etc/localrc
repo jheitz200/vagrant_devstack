@@ -10,4 +10,4 @@ enable_service q-meta
 OS_USERNAME=admin
 
 HORIZON_REPO=https://github.com/jheitz200/horizon.git
-HORIZON_BRANCH=update_forms
+HORIZON_BRANCH=update_instance_and_volume_forms
